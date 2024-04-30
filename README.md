@@ -19,15 +19,18 @@ Discover some of my projects:
 - PowerBi:- Amazon DashBoard Creation
 - Link:- https://github.com/NandiniScripts/PowerBi
 - Project Description:-
-  This project entails the development of a comprehensive dashboard using Power BI to analyze and visualize data from Amazon's e-commerce platform. The dashboard aims to provide    insights into various aspects of Amazon's business operations, including sales performance, product trends, customer behavior, and inventory management.
+  This project entails the development of a comprehensive dashboard using Power BI to analyze and visualize data from Amazon's e-commerce platform. The dashboard aims to 
+  provide    insights into various aspects of Amazon's business operations, including sales performance, product trends, customer behavior, and inventory management.
+
 - Python_Project:-Diwali_sales_analysis
-- Link:-
+- Link:-https://github.com/NandiniScripts/Python_project
 - Project Descriptipn:-
   In this Python project, we aim to analyze Diwali sales data to gain insights that will help improve customer experience and boost sales during the festive season. Diwali, 
   the festival of lights, is one of the most significant festivals celebrated in India and is accompanied by increased consumer spending across various sectors. By analyzing 
-  sales data from previous Diwali seasons, we can identify patterns, trends, and customer preferences to optimize marketing strategies, product offerings, and customer 
+  sales data from previous Diwali seasons, we can identify patterns, trends, and customer preferences to optimize marketing strategies, product offerings, and customer
   engagement initiatives.
-- [Project 3](link-to-project): Brief description.
+  
+- [Project 3](link-to-project): 
 
  Let's Connect 🤝
 
