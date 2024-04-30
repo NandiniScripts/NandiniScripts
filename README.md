@@ -16,7 +16,7 @@ Hi there! 👋 I'm Nandini Mahajan
 
 Discover some of my projects:
 
-- [Project 1](link-to-project): Brief description.
+- [Project 1]([link-to-project](https://github.com/NandiniScripts/PowerBi)): Brief description.
 - [Project 2](link-to-project): Brief description.
 - [Project 3](link-to-project): Brief description.
 
